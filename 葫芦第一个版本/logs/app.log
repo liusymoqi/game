@@ -1,0 +1,95 @@
+[2025-03-06 02:52:39] [INFO] [main:16] - ====== 应用程序启动 ======
+[2025-03-06 02:55:44] [INFO] [echo_sort:27] - == 开始整理流程 ==
+[2025-03-06 02:55:44] [INFO] [game_controller:39] - 正在跳转到游戏...
+[2025-03-06 02:55:46] [INFO] [image_tool:67] - 匹配图片：./image/multiplayer_icon.png,最大匹配值: 0.9797763228416443
+[2025-03-06 02:55:46] [INFO] [game_controller:66] - 成功进入游戏界面
+[2025-03-06 02:55:46] [INFO] [image_tool:67] - 匹配图片：./image/multiplayer_icon.png,最大匹配值: 0.9791012406349182
+[2025-03-06 02:55:46] [INFO] [echo_sort:40] - 
+--- 正在尝试打开背包 ---
+[2025-03-06 02:55:46] [INFO] [open_backpack:19] - 尝试打开背包 (1/3)...
+[2025-03-06 02:55:47] [INFO] [image_tool:67] - 匹配图片：./image/backpack_close.png,最大匹配值: 0.8893122673034668
+[2025-03-06 02:55:47] [INFO] [open_backpack:27] - 背包界面已成功打开
+[2025-03-06 02:55:47] [INFO] [echo_sort:46] - 
+--- 正在验证背包类型 ---
+[2025-03-06 02:55:47] [INFO] [image_tool:67] - 匹配图片：./image/filter_icon.png,最大匹配值: 0.9368010759353638
+[2025-03-06 02:55:47] [INFO] [open_backpack:48] - 当前已在声骸背包
+[2025-03-06 02:55:47] [INFO] [echo_sort:52] - 
+--- 正在验证排序方式 ---
+[2025-03-06 02:55:47] [INFO] [image_tool:67] - 匹配图片：./image/time_sort_icon.png,最大匹配值: 0.8723480105400085
+[2025-03-06 02:55:47] [INFO] [open_backpack:87] - 当前已是按获得时间排序
+[2025-03-06 02:55:49] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.8510945439338684
+[2025-03-06 02:55:49] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.2965601086616516
+[2025-03-06 02:55:49] [INFO] [echo_data:38] - 处理第 0 个声骸: 声骸名称不在套装对应的COST下: 梦魇飞廉之猩
+[2025-03-06 02:55:49] [INFO] [echo_data:39] - 声骸详细信息: {'count': 1, 'name': '梦魇飞廉之猩', 'cost': 4, 'level': 0, 'set': '005.png', 'attr1': '暴击伤害', 'attr1_num': '8.8%', 'attr2': '攻击', 'attr2_num': '30', 'locked': False, 'discarded': False}
+[2025-03-06 02:55:49] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.8446584343910217
+[2025-03-06 02:55:49] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.3037051558494568
+[2025-03-06 02:55:50] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.9533365368843079
+[2025-03-06 02:55:50] [INFO] [echo_data:41] - 处理第 1 个声骸: 声骸已弃置: 琉璃刀伶
+[2025-03-06 02:55:50] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.8446587920188904
+[2025-03-06 02:55:50] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.3033920228481293
+[2025-03-06 02:55:51] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.9472020864486694
+[2025-03-06 02:55:51] [INFO] [echo_data:41] - 处理第 2 个声骸: 声骸已弃置: 凝水贵族
+[2025-03-06 02:55:51] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.8463010191917419
+[2025-03-06 02:55:51] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.3040226697921753
+[2025-03-06 02:55:51] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.9534158110618591
+[2025-03-06 02:55:51] [INFO] [echo_data:41] - 处理第 3 个声骸: 声骸已弃置: 毒冠贵族
+[2025-03-06 02:55:52] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.8446852564811707
+[2025-03-06 02:55:52] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.29996559023857117
+[2025-03-06 02:55:52] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.9512122869491577
+[2025-03-06 02:55:52] [INFO] [echo_data:41] - 处理第 4 个声骸: 声骸已弃置: 巨布偶
+[2025-03-06 02:55:53] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.8462534546852112
+[2025-03-06 02:55:53] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.30994924902915955
+[2025-03-06 02:55:53] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.9512125253677368
+[2025-03-06 02:55:53] [INFO] [echo_data:41] - 处理第 5 个声骸: 声骸已弃置: 琉璃刀伶
+[2025-03-06 02:55:54] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.8519022464752197
+[2025-03-06 02:55:54] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.3033920228481293
+[2025-03-06 02:55:54] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.9575622081756592
+[2025-03-06 02:55:54] [INFO] [echo_data:41] - 处理第 6 个声骸: 声骸已锁定: 琉璃刀伶
+[2025-03-06 02:55:55] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.8527105450630188
+[2025-03-06 02:55:55] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.29623210430145264
+[2025-03-06 02:55:55] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.9472018480300903
+[2025-03-06 02:55:55] [INFO] [echo_data:41] - 处理第 7 个声骸: 声骸已弃置: 毒冠贵族
+[2025-03-06 02:55:56] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.8470727801322937
+[2025-03-06 02:55:56] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.3077628016471863
+[2025-03-06 02:55:56] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.9551606178283691
+[2025-03-06 02:55:56] [INFO] [echo_data:41] - 处理第 8 个声骸: 声骸已锁定: 毒冠贵族
+[2025-03-06 02:55:57] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.8454707264900208
+[2025-03-06 02:55:57] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.9492695927619934
+[2025-03-06 02:55:57] [INFO] [echo_data:41] - 处理第 9 个声骸: 声骸已弃置: 工头布偶
+[2025-03-06 02:55:58] [INFO] [echo_data:210] - 第1次滑动
+[2025-03-06 02:55:58] [INFO] [image_tool:67] - 匹配图片：./image/second_echo.png,最大匹配值: 0.9212067723274231
+[2025-03-06 02:55:59] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.8438785672187805
+[2025-03-06 02:55:59] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.9473643898963928
+[2025-03-06 02:55:59] [INFO] [echo_data:41] - 处理第 10 个声骸: 声骸已弃置: 幻昼骑士
+[2025-03-06 02:55:59] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.8470727801322937
+[2025-03-06 02:55:59] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.9430322647094727
+[2025-03-06 02:55:59] [INFO] [echo_data:41] - 处理第 11 个声骸: 声骸已弃置: 巨布偶
+[2025-03-06 02:56:00] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.3424234092235565
+[2025-03-06 02:56:00] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.2577264904975891
+[2025-03-06 02:56:00] [INFO] [echo_data:41] - 处理第 12 个声骸: 无法识别声骸套装: 未知套装
+[2025-03-06 02:56:01] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.31631502509117126
+[2025-03-06 02:56:01] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.23474395275115967
+[2025-03-06 02:56:01] [INFO] [echo_data:41] - 处理第 13 个声骸: 无法识别声骸套装: 未知套装
+[2025-03-06 02:56:02] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.30069878697395325
+[2025-03-06 02:56:02] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.24844883382320404
+[2025-03-06 02:56:02] [INFO] [echo_data:41] - 处理第 14 个声骸: 无法识别声骸套装: 未知套装
+[2025-03-06 02:56:03] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.30027616024017334
+[2025-03-06 02:56:03] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.2901742458343506
+[2025-03-06 02:56:03] [INFO] [echo_data:41] - 处理第 15 个声骸: 无法识别声骸套装: 未知套装
+[2025-03-06 02:56:03] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.30245932936668396
+[2025-03-06 02:56:03] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.24919000267982483
+[2025-03-06 02:56:03] [INFO] [echo_data:41] - 处理第 16 个声骸: 无法识别声骸套装: 未知套装
+[2025-03-06 02:56:04] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.2964077591896057
+[2025-03-06 02:56:04] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.23924562335014343
+[2025-03-06 02:56:04] [INFO] [echo_data:41] - 处理第 17 个声骸: 无法识别声骸套装: 未知套装
+[2025-03-06 02:56:05] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.29617488384246826
+[2025-03-06 02:56:05] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.23980623483657837
+[2025-03-06 02:56:05] [INFO] [echo_data:41] - 处理第 18 个声骸: 无法识别声骸套装: 未知套装
+[2025-03-06 02:56:06] [INFO] [image_tool:67] - 匹配图片：./image/locked_icon.png,最大匹配值: 0.2962164878845215
+[2025-03-06 02:56:06] [INFO] [image_tool:67] - 匹配图片：./image/discarded_icon.png,最大匹配值: 0.2575443685054779
+[2025-03-06 02:56:06] [INFO] [echo_data:41] - 处理第 19 个声骸: 无法识别声骸套装: 未知套装
+[2025-03-06 02:56:07] [INFO] [echo_data:210] - 第1次滑动
+[2025-03-06 02:56:07] [INFO] [image_tool:67] - 匹配图片：./image/second_echo.png,最大匹配值: 0.09025708585977554
+[2025-03-06 02:56:07] [ERROR] [echo_data:217] - 滑动过长仍未符合
+[2025-03-06 02:56:07] [ERROR] [echo_data:50] - 滑动过长仍未符合
+[2025-03-06 02:56:07] [ERROR] [echo_sort:83] - 处理声骸时出错
